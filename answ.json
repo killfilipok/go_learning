@@ -1,0 +1,1723 @@
+[
+    {
+        "beginner-1": {
+            "1":{
+                "type":"fill-in",
+                "answer":"Malaga",
+                "accepted":[
+                    "malaga",
+                    "alaga",
+                    "Alaga"
+                ]
+            },
+            "2":{
+                "type":"fill-in",
+                "answer":"Twelve",
+                "accepted":[
+                    "twelve",
+                    "12"
+                ]
+            },
+            "3":{
+                "type":"fill-in",
+                "answer":"Library",
+                "accepted":[
+                    "library"
+                ]
+            },
+            "4":{
+                "type":"fill-in",
+                "answer":"Japanese",
+                "accepted":[
+                    "japanese"
+                ]
+            },
+            "5":{
+                "type":"fill-in",
+                "answer":"Argentina",
+                "accepted":[
+                    "argentina"
+                ]
+            },
+            "6":{
+                "type":"fill-in",
+                "answer":"The United States",
+                "accepted":[
+                    "US",
+                    "the united states",
+                    "the united states of america",
+                    "The United States Of America",
+                    "The United States of America",
+                    "usa",
+                    "USA"
+                ]
+            },
+            "7":{
+                "type":"fill-in",
+                "answer":"Steve's mother",
+                "accepted":[
+                    "Steve mother",
+                    "Steves mother"
+                ]
+            },
+            "8":{
+                "type":"fill-in",
+                "answer":"Numbers",
+                "accepted":[
+                    "nums",
+                    "numbers"
+                ]
+            }
+        }
+    },
+    {
+        "beginner-2": {
+            "1":{
+                "type":"none",
+                "answer":"",
+                "accepted":[]
+            },
+            "2":{
+                "type":"fill-in",
+                "answer":"my e-mail",
+                "accepted":[
+                    "e-mail",
+                    "E-mail",
+                    "my E-mail"
+                ]
+            },
+            "3":{
+                "type":"fill-in",
+                "answer":"the internet",
+                "accepted":[
+                    "internet",
+                    "Internet",
+                    "the Internet"
+                ]
+            },
+            "4":{
+                "type":"fill-in-several",
+                "answers":{
+                    "1": "a pastry and a coffee",
+                    "2": "my newspaper" 
+                },
+                "accepted":{
+                    "1" :[
+                        "pastry and coffee"
+                    ],
+                    "2" :[
+                        "newspaper"
+                    ]
+                }
+            },
+            "5":{
+                "type":"none",
+                "answer":"",
+                "accepted":[]
+            },
+            "6":{
+                "type":"fill-in",
+                "answer":"a coffee",
+                "accepted":[
+                    "coffee"
+                ]
+            },
+            "7":{
+                "type":"none",
+                "answer":"",
+                "accepted":[]
+            },
+            "8":{
+                "type":"fill-in",
+                "answer":"lunch",
+                "accepted":[]
+            },
+            "9":{
+                "type":"fill-in",
+                "answer":"with the music",
+                "accepted":[
+                    "with music"
+                ]
+            },
+            "10":{
+                "type":"fill-in",
+                "answer":"arrive",
+                "accepted":[]
+            },
+            "11":{
+                "type":"fill-in",
+                "answer":"to eat in a restaurant",
+                "accepted":[]
+            },
+            "12":{
+                "type":"fill-in",
+                "answer":"to bed",
+                "accepted":[
+                    "to sleep"
+                ]
+            }
+        }
+    },
+    {
+        "beginner-3": {
+            "1":{
+                "type":"fill-in",
+                "answer":"live",
+                "accepted":[]
+            },
+            "2":{
+                "type":"fill-in",
+                "answer":"children",
+                "accepted":[]
+            },
+            "3":{
+                "type":"fill-in",
+                "answer":"does",
+                "accepted":[]
+            },
+            "4":{
+                "type":"fill-in",
+                "answer":"have",
+                "accepted":[]
+            },
+            "5":{
+                "type":"fill-in",
+                "answer":"does",
+                "accepted":[]
+            },
+            "6":{
+                "type":"fill-in",
+                "answer":"watch",
+                "accepted":[]
+            }
+        }
+    },
+    {
+        "beginner-4": {
+            "1":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"horror/thriller",
+                    "B":"romance",
+                    "C":"sci-fi"
+                }
+            },
+            "2":{
+                "type":"select",
+                "answer":"D",
+                "select-answers": {
+                    "A":"horror/thriller",
+                    "B":"romance",
+                    "C":"sci-fi",
+                    "D":"4"
+                }
+            },
+            "3":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"2.00",
+                    "B":"3.00",
+                    "C":"4.00"
+                }
+            },
+            "4":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"7.25",
+                    "B":"7.45",
+                    "C":"7.55"
+                }
+            },
+            "5":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"2",
+                    "B":"3",
+                    "C":"4"
+                }
+            },
+            "6":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"England",
+                    "B":"France",
+                    "C":"Spain",
+                    "D":"USA"
+                }
+            },
+            "7":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"11.45",
+                    "B":"11.55",
+                    "C":"12.45"
+                }
+            },
+            "8":{
+                "type":"select",
+                "answer":"C",
+                "select-answers": {
+                    "A":"21.50",
+                    "B":"22.50",
+                    "C":"23.50",
+                    "D":"24.50"
+                }
+            }
+        }
+    },
+    {
+        "beginner-5": {
+            "1":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "2":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "3":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "4":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "5":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "6":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "7":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "8":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            }
+        }
+    },
+    {
+        "beginner-6": {
+            "1":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "2":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "3":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "4":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "5":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "6":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "7":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            }
+        }
+    },
+    {
+        "beginner-7": {
+            "1":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"7pm Thursday",
+                    "B":"8pm Thursday",
+                    "C":"9pm Thursday",
+                    "D":"10pm Thursday"
+                }
+            },
+            "2":{
+                "type":"select",
+                "answer":"D",
+                "select-answers": {
+                    "A":"London",
+                    "B":"Paris",
+                    "C":"Mexico",
+                    "D":"Melbourne"
+                }
+            },
+            "3":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"Go to restaurant",
+                    "B":"Stay at home",
+                    "C":"Go to visit friends",
+                    "D":"Go to Melbourne"
+                }
+            },
+            "4":{
+                "type":"select",
+                "answer":"C",
+                "select-answers": {
+                    "A":"Two weeks",
+                    "B":"Until Friday",
+                    "C":"Until Monday",
+                    "D":"A week"
+                }
+            },
+            "5":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"Lunch at restaurant",
+                    "B":"Picnic at beach",
+                    "C":"Picnic in countryside",
+                    "D":"Swimming at beach"
+                }
+            },
+            "6":{
+                "type":"select",
+                "answer":"C",
+                "select-answers": {
+                    "A":"17th Avenue",
+                    "B":"27th Avenue",
+                    "C":"7th Avenue",
+                    "D":"57th Avenue"
+                }
+            },
+            "7":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"In 7th Avenue",
+                    "B":"In Central Park",
+                    "C":"In the museum",
+                    "D":"a Japanese restaurant"
+                }
+            },
+            "8":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"A basketball match",
+                    "B":"A party",
+                    "C":"A fishing trip",
+                    "D":"Meeting a famous person"
+                }
+            }
+        }
+    },
+    {
+        "beginner-8": {
+            "1":{
+                "type":"fill-in",
+                "answer":"Malaga",
+                "accepted":[
+                    "malaga",
+                    "alaga",
+                    "Alaga"
+                ]
+            },
+            "2":{
+                "type":"fill-in",
+                "answer":"Malaga",
+                "accepted":[
+                    "malaga",
+                    "alaga",
+                    "Alaga"
+                ]
+            },
+            "3":{
+                "type":"fill-in",
+                "answer":"Malaga",
+                "accepted":[
+                    "malaga",
+                    "alaga",
+                    "Alaga"
+                ]
+            },
+            "4":{
+                "type":"fill-in",
+                "answer":"Malaga",
+                "accepted":[
+                    "malaga",
+                    "alaga",
+                    "Alaga"
+                ]
+            },
+            "5":{
+                "type":"fill-in",
+                "answer":"Malaga",
+                "accepted":[
+                    "malaga",
+                    "alaga",
+                    "Alaga"
+                ]
+            },
+            "6":{
+                "type":"fill-in",
+                "answer":"Malaga",
+                "accepted":[
+                    "malaga",
+                    "alaga",
+                    "Alaga"
+                ]
+            }
+        }
+    },
+    {
+        "pre-intermediate-1": {
+            "1":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "2":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "3":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "4":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "5":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "6":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "7":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            }
+        }
+    },
+    {
+        "pre-intermediate-2": {
+            "1":{
+                "type":"select",
+                "answer":"C",
+                "select-answers": {
+                    "A":"Car",
+                    "B":"Train",
+                    "C":"Bus"
+                }
+            },
+            "2":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"They were tired",
+                    "B":"They were ill",
+                    "C":"They went to a different place"
+                }
+            },
+            "3":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"A hotel manager",
+                    "B":"Diana's colleague",
+                    "C":"worker at the canyon"
+                }
+            },
+            "4":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"She didn't have time for lunch",
+                    "B":"She ate something with the tourists",
+                    "C":"She had lunch in the canyon cafe"
+                }
+            },
+            "5":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"The wages are good, but she hates the work",
+                    "B":"The pay her poorly but at least she likes the job",
+                    "C":"The wages are good and she likes the job too"
+                }
+            },
+            "6":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"She had a sandwich",
+                    "B":"She spoke to the head of the tourist group about tomorrow",
+                    "C":"She slept because she was exhausted"
+                }
+            },
+            "7":{
+                "type":"select",
+                "answer":"C",
+                "select-answers": {
+                    "A":"Aquarium in the morning, museum in the afternoon",
+                    "B":"Tour of the city in the morning, aquarium in the afternoon",
+                    "C":"Museum in the morning, aquarium in the afternoon"
+                }
+            }
+        }
+    },
+    {
+        "pre-intermediate-3": {
+            "1":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "2":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "3":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "4":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "5":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "6":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "7":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            }
+        }
+    },
+    {
+        "pre-intermediate-4": {
+            "1":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "2":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "3":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "4":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "5":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "6":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "7":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "8":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "9":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "10":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            }
+        }
+    },
+    {
+        "pre-intermediate-5": {
+            "1":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"One or two",
+                    "B":"Three to five",
+                    "C":"About 10",
+                    "D":"As many as possible"
+                }
+            },
+            "2":{
+                "type":"select",
+                "answer":"D",
+                "select-answers": {
+                    "A":"I never have",
+                    "B":"This year",
+                    "C":"Once many years age",
+                    "D":"I do it quite often"
+                }
+            },
+            "3":{
+                "type":"select",
+                "answer":"C",
+                "select-answers": {
+                    "A":"Never",
+                    "B":"Once or twice",
+                    "C":"Quite often",
+                    "D":"Night-time is for sleeping"
+                }
+            },
+            "4":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"Cheering up",
+                    "B":"Some good advice",
+                    "C":"Someone to listen to them"
+                }
+            },
+            "5":{
+                "type":"select",
+                "answer":"E",
+                "select-answers": {
+                    "A":"Throughout the day",
+                    "B":"Every day",
+                    "C":"Rarely",
+                    "D":"Only when you need them"
+                }
+            }
+        }
+    },
+    {
+        "pre-intermediate-6": {
+            "1":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"2",
+                    "B":"4",
+                    "C":"3",
+                    "D":"5"
+                }
+            },
+            "2":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"He worked in a cinema, then became the manager.",
+                    "B":"He got married to a movie star, then they bought a cinema.",
+                    "C":"He sold chocolate and soda drinks to silent movie actors.",
+                    "D":"He worked in a chocolate factory, then made movies."
+                }
+            },
+            "3":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"They were often together in photos.",
+                    "B":"All the children played together and it was confusing.",
+                    "C":"They lived in the same house.",
+                    "D":"They looked very similar."
+                }
+            },
+            "4":{
+                "type":"select",
+                "answer":"D",
+                "select-answers": {
+                    "A":"The speaker's brother bought the house.",
+                    "B":"It's not there anymore, it was destroyed.",
+                    "C":"The house was replaced with a large apartment building.",
+                    "D":"The area was more open and less built up."
+                }
+            },
+            "5":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"The girl's uncles were going to fight in the war.",
+                    "B":"The speaker's grandmother wanted a photo with her handbag.",
+                    "C":"It was the birthday of one of them.",
+                    "D":"Two of them were leaving the army."
+                }
+            },
+            "6":{
+                "type":"select",
+                "answer":"C",
+                "select-answers": {
+                    "A":"They both died in the war.",
+                    "B":"One died in the war, the other had seven children.",
+                    "C":"One died in the war, the other became an actor.",
+                    "D":"One became a cheese maker, the other became an actor."
+                }
+            }
+        }
+    },
+    {
+        "intermediate-1": {
+            "1":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"Yes",
+                    "2":"No"
+                }
+            },
+            "2":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"Yes",
+                    "2":"No"
+                }
+            },
+            "3":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"Yes",
+                    "2":"No"
+                }
+            },
+            "4":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"Yes",
+                    "2":"No"
+                }
+            },
+            "5":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"Yes",
+                    "2":"No"
+                }
+            },
+            "6":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"Yes",
+                    "2":"No"
+                }
+            },
+            "7":{
+                "type":"select",
+                "answer":"3",
+                "select-answers": {
+                    "1":"Yes",
+                    "2":"No"
+                }
+            },
+            "8":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"Yes",
+                    "2":"No"
+                }
+            }
+        }
+    },
+    {
+        "intermediate-2": {
+            "1":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "2":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "3":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "4":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "5":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "6":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "7":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "8":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "9":{
+                "type":"select",
+                "answer":"D",
+                "select-answers": {
+                    "A":"The south of Italy",
+                    "B":"The USA",
+                    "C":"a small town in Italy",
+                    "D":"The north of Italy"
+                }
+            },
+            "10":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"Quiet and funny",
+                    "B":"Intelligent",
+                    "C":"Quite funny",
+                    "D":"Gorgeous"
+                }
+            },
+            "11":{
+                "type":"select",
+                "answer":"C",
+                "select-answers": {
+                    "A":"Law",
+                    "B":"Economics",
+                    "C":"European languages",
+                    "D":"European history"
+                }
+            },
+            "12":{
+                "type":"select",
+                "answer":"C",
+                "select-answers": {
+                    "A":"In the university",
+                    "B":"In the cinema",
+                    "C":"In a bar",
+                    "D":"In a restaurant"
+                }
+            },
+            "13":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"Talking on his phone",
+                    "B":"Chatting to friends at the table",
+                    "C":"Eating",
+                    "D":"Dancing"
+                }
+            }
+        }
+    },
+    {
+        "intermediate-4": {
+            "1":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"Kate",
+                    "B":"Matt",
+                    "C":"Nobody"
+                }
+            },
+            "2":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"Kate",
+                    "B":"Matt",
+                    "C":"Nobody"
+                }
+            },
+            "3":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"Kate",
+                    "B":"Matt",
+                    "C":"Nobody"
+                }
+            },
+            "4":{
+                "type":"select",
+                "answer":"C",
+                "select-answers": {
+                    "A":"Kate",
+                    "B":"Matt",
+                    "C":"Nobody"
+                }
+            },
+            "5":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"Kate",
+                    "B":"Matt",
+                    "C":"Nobody"
+                }
+            },
+            "6":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"Kate",
+                    "B":"Matt",
+                    "C":"Nobody"
+                }
+            },
+            "7":{
+                "type":"select",
+                "answer":"C",
+                "select-answers": {
+                    "A":"Kate",
+                    "B":"Matt",
+                    "C":"Nobody"
+                }
+            },
+            "8":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"Kate",
+                    "B":"Matt",
+                    "C":"Nobody"
+                }
+            }
+        }
+    },
+    {
+        "intermediate-5": {
+            "1":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "2":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "3":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "4":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "5":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "6":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "7":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            }
+        }
+    },
+    {
+        "intermediate-6": {
+            "1":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "2":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "3":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "4":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "5":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "6":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "7":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "8":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            }
+        }
+    },
+    {
+        "advanced-1": {
+            "1":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"She's been incredibly busy.",
+                    "B":"She feels she doesn't belong in this showbiz world.",
+                    "C":"She's had too much to learn."
+                }
+            },
+            "2":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"to show how hard they have all been working on the film.",
+                    "B":"to give an idea of teamwork.",
+                    "C":"to say something about the plot of the film."
+                }
+            },
+            "3":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"a minor, supporting role.",
+                    "B":"the mother of the group.",
+                    "C":"the serious one."
+                }
+            },
+            "4":{
+                "type":"select",
+                "answer":"C",
+                "select-answers": {
+                    "A":"she was determined not to let it affect her work.",
+                    "B":"she didn't find him very professional.",
+                    "C":"she felt relaxed around him."
+                }
+            },
+            "5":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"she doesn't like working in Chicago.",
+                    "B":"family commitments make things difficult for her.",
+                    "C":"her husband and daughter don't like living in Chicago."
+                }
+            },
+            "6":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"she shouldn't have criticized something she profits off herself.",
+                    "B":"she was only repeating something she had previously stated.",
+                    "C":"she was too aggressive in her comments about Broadway."
+                }
+            },
+            "7":{
+                "type":"select",
+                "answer":"C",
+                "select-answers": {
+                    "A":"she wants equal pay for women.",
+                    "B":"there aren't enough women working on Broadway.",
+                    "C":"women should be given as many top roles as men are."
+                }
+            }
+        }
+    },
+    {
+        "advanced-2": {
+            "1":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"she's been promoting her new book.",
+                    "B":"she arrived fir the interview a little late.",
+                    "C":"she's been travelling around bookstores."
+                }
+            },
+            "2":{
+                "type":"select",
+                "answer":"C",
+                "select-answers": {
+                    "A":"she didn't want them.",
+                    "B":"the bookstore wasn't big enough.",
+                    "C":"she wasn't famous enough."
+                }
+            },
+            "3":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"there are few successful authors.",
+                    "B":"it's difficult to climb the mountain of success to be number one.",
+                    "C":"the publishing system is very old."
+                }
+            },
+            "4":{
+                "type":"select",
+                "answer":"CB",
+                "select-answers": {
+                    "A":"she doesn't like big crowds.",
+                    "B":"she can speak to readers.",
+                    "C":"she likes to do favours for her friends."
+                }
+            },
+            "5":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"Janet was ready to tell her story.",
+                    "B":"Janet prefers autobiographical stories.",
+                    "C":"the publishers insisted."
+                }
+            },
+            "6":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"an ordinary woman shopping.",
+                    "B":"a murder.",
+                    "C":"a friend of Janet's whose husband left her."
+                }
+            },
+            "7":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"the publisher didn't like it.",
+                    "B":"it was derivative.",
+                    "C":"it was too frightening."
+                }
+            },
+            "8":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"author",
+                    "2":"interviewer"
+                }
+            },
+            "9":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"author",
+                    "2":"interviewer"
+                }
+            },
+            "10":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"author",
+                    "2":"interviewer"
+                }
+            },
+            "11":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"author",
+                    "2":"interviewer"
+                }
+            },
+            "12":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"author",
+                    "2":"interviewer"
+                }
+            },
+            "13":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"author",
+                    "2":"interviewer"
+                }
+            },
+            "14":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"author",
+                    "2":"interviewer"
+                }
+            }
+        }
+    },
+    {
+        "advanced-3": {
+            "1":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "2":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "3":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "4":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "5":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "6":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "7":{
+                "type":"select",
+                "answer":"1",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            },
+            "8":{
+                "type":"select",
+                "answer":"2",
+                "select-answers": {
+                    "1":"True",
+                    "2":"False"
+                }
+            }
+        }
+    },
+    {
+        "advanced-4": {
+            "1":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"Dennis",
+                    "B":"Amber",
+                    "C":"Nobody"
+                }
+            },
+            "2":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"Dennis",
+                    "B":"Amber",
+                    "C":"Nobody"
+                }
+            },
+            "3":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"Dennis",
+                    "B":"Amber",
+                    "C":"Nobody"
+                }
+            },
+            "4":{
+                "type":"select",
+                "answer":"C",
+                "select-answers": {
+                    "A":"Dennis",
+                    "B":"Amber",
+                    "C":"Nobody"
+                }
+            },
+            "5":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"Dennis",
+                    "B":"Amber",
+                    "C":"Nobody"
+                }
+            },
+            "6":{
+                "type":"select",
+                "answer":"C",
+                "select-answers": {
+                    "A":"Dennis",
+                    "B":"Amber",
+                    "C":"Nobody"
+                }
+            },
+            "7":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"Dennis",
+                    "B":"Amber",
+                    "C":"Nobody"
+                }
+            },
+            "8":{
+                "type":"select",
+                "answer":"C",
+                "select-answers": {
+                    "A":"Dennis",
+                    "B":"Amber",
+                    "C":"Nobody"
+                }
+            }
+        }
+    },
+    {
+        "advanced-5": {
+            "1":{
+                "type":"select",
+                "answer":"C",
+                "select-answers": {
+                    "A":"To say it was a serious paper.",
+                    "B":"To say something she was going to miss.",
+                    "C":"As a way of criticizing the newspaper."
+                }
+            },
+            "2":{
+                "type":"select",
+                "answer":"A",
+                "select-answers": {
+                    "A":"They were being hypocritical.",
+                    "B":"It was always doomed to failure.",
+                    "C":"It was very popular."
+                }
+            },
+            "3":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"There is little else to write about.",
+                    "B":"There's no shame in celebrating success.",
+                    "C":"The Times gives a lots of space to baseball because the other newspapers don't."
+                }
+            },
+            "4":{
+                "type":"select",
+                "answer":"C",
+                "select-answers": {
+                    "A":"They write awful, boring articles.",
+                    "B":"They write articles which are of little relevance to him.",
+                    "C":"They would like to write for bigger and better newspapers."
+                }
+            },
+            "5":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"The local economy will be affected but not destroyed.",
+                    "B":"People will find in the ads in other newspapers.",
+                    "C":"One of the other newspapers will open a local jobs newspaper."
+                }
+            },
+            "6":{
+                "type":"select",
+                "answer":"C",
+                "select-answers": {
+                    "A":"Jobs and obituaries.",
+                    "B":"Jobs and TV listings.",
+                    "C":"To find out what's on locally and who's died."
+                }
+            },
+            "7":{
+                "type":"select",
+                "answer":"B",
+                "select-answers": {
+                    "A":"They will both stop buying local newspapers.",
+                    "B":"Prices are likely to rise in the near future.",
+                    "C":"There are too many local newspapers."
+                }
+            }
+        }
+    }
+]

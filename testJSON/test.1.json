@@ -1,0 +1,945 @@
+[
+    {
+        "beginner-1": {
+            "1":{
+                "type":"fill-in",
+                "value":"Susan's teacher is a 35-year old from the city of#.",
+                "fill-index":10
+            },
+            "2":{
+                "type":"fill-in",
+                "value":"There are about# students in the class.",
+                "fill-index":10
+            },
+            "3":{
+                "type":"fill-in",
+                "value":"The lessons are in the local#.",
+                "fill-index":10
+            },
+            "4":{
+                "type":"fill-in",
+                "value":"The best student in the class is a# girl called Miko.",
+                "fill-index":10
+            },
+            "5":{
+                "type":"fill-in",
+                "value":"The student James wants to go to# next year.",
+                "fill-index":10
+            },
+            "6":{
+                "type":"fill-in",
+                "value":"Most of the students come from#.",
+                "fill-index":10
+            },
+            "7":{
+                "type":"fill-in",
+                "value":"One of Susan's classmates is a friend of#.",
+                "fill-index":10
+            },
+            "8":{
+                "type":"fill-in",
+                "value":"In today's lesson, they learned how to ask someone's name and some#.",
+                "fill-index":10
+            }
+        }
+    },
+    {
+        "beginner-2": {
+            "1":{
+                "type":"full-string",
+                "value":"7.00: I get up."
+            },
+            "2":{
+                "type":"fill-in",
+                "value":"8.00: Check#.",
+                "fill-index":10
+            },
+            "3":{
+                "type":"fill-in",
+                "value":"9.00: Use#.",
+                "fill-index":10
+            },
+            "4":{
+                "type":"fill-in-several",
+                "value":"10.00: Have# in a cafe and read#.",
+                "fill-index":{
+                    "1": "20",
+                    "2": "12"
+                }
+            },
+            "5":{
+                "type":"full-string",
+                "value":"11.00: My car arrives to take me to the studio."
+            },
+            "6":{
+                "type":"fill-in",
+                "value":"12.00: Drink# with other members of the group. Then start work.",
+                "fill-index":10
+            },
+            "7":{
+                "type":"full-string",
+                "value":"1.00 - 2.00: Recording in the studio.",
+                "fill-index":10
+            },
+            "8":{
+                "type":"fill-in",
+                "value":"3.00: Eat#.",
+                "fill-index":10
+            },
+            "9":{
+                "type":"fill-in",
+                "value":"4.00 - 6.00: Help the rest of the group#.",
+                "fill-index":10
+            },
+            "10":{
+                "type":"fill-in",
+                "value":"7.00:# home",
+                "fill-index":10
+            },
+            "11":{
+                "type":"fill-in",
+                "value":"9.00 - 10.00: Go out#.",
+                "fill-index":10
+            },
+            "12":{
+                "type":"fill-in",
+                "value":"11.00: Go#.",
+                "fill-index":10
+            }
+        }
+    },
+    {
+        "beginner-3": {
+            "1":{
+                "type":"fill-in",
+                "value":"Where does the Queen#?",
+                "fill-index":10
+            },
+            "2":{
+                "type":"fill-in",
+                "value":"How many# does she have?",
+                "fill-index":10
+            },
+            "3":{
+                "type":"fill-in",
+                "value":"What hobbies# the Queen have?",
+                "fill-index":10
+            },
+            "4":{
+                "type":"fill-in",
+                "value":"How many corgis does she#?",
+                "fill-index":10
+            },
+            "5":{
+                "type":"fill-in",
+                "value":"What# the Queen watch on television?",
+                "fill-index":10
+            },
+            "6":{
+                "type":"fill-in",
+                "value":"Does she# soap operas or movies or reality TV shows?",
+                "fill-index":10
+            }
+        }
+    },
+    {
+        "beginner-4": {
+            "1":{
+                "type":"full-string",
+                "value":"What type of film is on Screen 1"
+            },
+            "2":{
+                "type":"full-string",
+                "value":"Which screen has an animated film"
+            },
+            "3":{
+                "type":"full-string",
+                "value":"What time does the first film start"
+            },
+            "4":{
+                "type":"full-string",
+                "value":"If you arrive at the cinema at 7.10, when is the next film"
+            },
+            "5":{
+                "type":"full-string",
+                "value":"Which screen is showing a love story"
+            },
+            "6":{
+                "type":"full-string",
+                "value":"Where is the director of 'Streetmatch' from"
+            },
+            "7":{
+                "type":"full-string",
+                "value":"What time does the last film start"
+            },
+            "8":{
+                "type":"full-string",
+                "value":"How much does it cost for a mother and father with 3 children (aged 16,14 and 9) to see a film"
+            }
+        }
+    },
+    {
+        "beginner-5": {
+            "1":{
+                "type":"full-string",
+                "value":"Mike wants to go and see the Tower of London."
+            },
+            "2":{
+                "type":"full-string",
+                "value":"It never rains in London in August."
+            },
+            "3":{
+                "type":"full-string",
+                "value":"Jen doesn't remember the correct gate number."
+            },
+            "4":{
+                "type":"full-string",
+                "value":"Mike has terrible memories about his trip to Germany."
+            },
+            "5":{
+                "type":"full-string",
+                "value":"There are three flights leaving at ten o'clock."
+            },
+            "6":{
+                "type":"full-string",
+                "value":"Mike knows which airline they are flying with."
+            },
+            "7":{
+                "type":"full-string",
+                "value":"There's a problem with the British Airways flight."
+            },
+            "8":{
+                "type":"full-string",
+                "value":"They are going to walk to the gate."
+            }
+        }
+    },
+    {
+        "beginner-6": {
+            "1":{
+                "type":"full-string",
+                "value":"Graham has been asleep for the last three hours."
+            },
+            "2":{
+                "type":"full-string",
+                "value":"Barbara couldn't see the Rocky Mountains because of cloud."
+            },
+            "3":{
+                "type":"full-string",
+                "value":"Barbara ate chicken and rice for dinner and a pear for dessert."
+            },
+            "4":{
+                "type":"full-string",
+                "value":"Graham is hungry because he didn't have breakfast."
+            },
+            "5":{
+                "type":"full-string",
+                "value":"Graham slept after the plane passed Chicago."
+            },
+            "6":{
+                "type":"full-string",
+                "value":"Barbara watched a Brad Pitt movie."
+            },
+            "7":{
+                "type":"full-string",
+                "value":"They will meet Barbara's father at the hotel in Los Angeles."
+            }
+        }
+    },
+    {
+        "beginner-7":{
+            "1":{
+                "type":"full-string",
+                "value":"What time does Heather's brother arrive in town?"
+            },
+            "2":{
+                "type":"full-string",
+                "value":"Where is he flying from?"
+            },
+            "3":{
+                "type":"full-string",
+                "value":"What are they going to do on Thursday evening?"
+            },
+            "4":{
+                "type":"full-string",
+                "value":"How long is Terry going to stay with her?"
+            },
+            "5":{
+                "type":"full-string",
+                "value":"What are the plans for Friday afternoon?"
+            },
+            "6":{
+                "type":"full-string",
+                "value":"Where is the Mexican restaurant?"
+            },
+            "7":{
+                "type":"full-string",
+                "value":"Where are they going to have lunch on Saturday?"
+            },
+            "8":{
+                "type":"full-string",
+                "value":"What surprise does Heather have for her brother?"
+            }
+        }
+    },
+    {
+        "beginner-8": {
+            "1":{
+                "type":"fill-in",
+                "value":"",
+                "fill-index":10
+            },
+            "2":{
+                "type":"fill-in",
+                "value":"",
+                "fill-index":10
+            },
+            "3":{
+                "type":"fill-in",
+                "value":"",
+                "fill-index":10
+            },
+            "4":{
+                "type":"fill-in",
+                "value":"",
+                "fill-index":10
+            },
+            "5":{
+                "type":"fill-in",
+                "value":"",
+                "fill-index":10
+            },
+            "6":{
+                "type":"fill-in",
+                "value":"",
+                "fill-index":10
+            },
+            "7":{
+                "type":"fill-in",
+                "value":"",
+                "fill-index":10
+            },
+            "8":{
+                "type":"fill-in",
+                "value":"",
+                "fill-index":10
+            }
+        }
+    },
+    {
+        "pre-intermediate-1":{
+            "1":{
+                "type":"full-string",
+                "value":"Ben needs someone to help with the cooking."
+            },
+            "2":{
+                "type":"full-string",
+                "value":"The show is going to take place in the park."
+            },
+            "3":{
+                "type":"full-string",
+                "value":"Kathy likes Graham's jokes."
+            },
+            "4":{
+                "type":"full-string",
+                "value":"Somebody from Kathy's family has already volunteered to help."
+            },
+            "5":{
+                "type":"full-string",
+                "value":"Ben doesn't think Kathy's card tricks will work."
+            },
+            "6":{
+                "type":"full-string",
+                "value":"Kathy can't dance very well."
+            },
+            "7":{
+                "type":"full-string",
+                "value":"Kathy can't participate because she is helping Susan."
+            }
+        }
+    },
+    {
+        "pre-intermediate-2":{
+            "1":{
+                "type":"full-string",
+                "value":"How did Diana and the tourists travel to the canyon?"
+            },
+            "2":{
+                "type":"full-string",
+                "value":"Why did some of the tourists stay at the hotel today?"
+            },
+            "3":{
+                "type":"full-string",
+                "value":"Who is Mark?"
+            },
+            "4":{
+                "type":"full-string",
+                "value":"What did Diana do for lunch?"
+            },
+            "5":{
+                "type":"full-string",
+                "value":"What does Diana think about her job?"
+            },
+            "6":{
+                "type":"full-string",
+                "value":"What did Diana do when she arrived back in the hotel?"
+            },
+            "7":{
+                "type":"full-string",
+                "value":"What is the program for tomorrow?"
+            }
+        }
+    },
+    {
+        "pre-intermediate-3":{
+            "1":{
+                "type":"full-string",
+                "value":"Mrs. Wilson arrived home at about six o'clock."
+            },
+            "2":{
+                "type":"full-string",
+                "value":"Mrs. Wilson thought the house was empty."
+            },
+            "3":{
+                "type":"full-string",
+                "value":"Mrs. Wilson doesn't like her sister-in-law."
+            },
+            "4":{
+                "type":"full-string",
+                "value":"Mrs. Wilson's husband name is Trevor."
+            },
+            "5":{
+                "type":"full-string",
+                "value":"Mrs. Wilson didn't go into the bathroom."
+            },
+            "6":{
+                "type":"full-string",
+                "value":"Mrs. Wilson tried to wake her husband."
+            },
+            "7":{
+                "type":"full-string",
+                "value":"Mrs. Wilson waited a long time for the police to arrive."
+            }
+        }
+    },
+    {
+        "pre-intermediate-4":{
+            "1":{
+                "type":"full-string",
+                "value":"Richard spent about two months in Thailand."
+            },
+            "2":{
+                "type":"full-string",
+                "value":"This photo was taken near the beginning of his stay in Thailand."
+            },
+            "3":{
+                "type":"full-string",
+                "value":"Richard was hiding because he doesn't like having his photo taken."
+            },
+            "4":{
+                "type":"full-string",
+                "value":"Richard is still in touch with the girl from Manchester."
+            },
+            "5":{
+                "type":"full-string",
+                "value":"Carlos is Peruvian."
+            },
+            "6":{
+                "type":"full-string",
+                "value":"Melanie's birthday is July 5th."
+            },
+            "7":{
+                "type":"full-string",
+                "value":"Jackie had more teaching experience than Richard."
+            },
+            "8":{
+                "type":"full-string",
+                "value":"Richard preferred teaching the adults in Thailand."
+            },
+            "9":{
+                "type":"full-string",
+                "value":"Rob met his wife when he was teaching in China."
+            },
+            "10":{
+                "type":"full-string",
+                "value":"The garden party was in the garden of an embassy."
+            }
+        }
+    },
+    {
+        "pre-intermediate-5":{
+            "1":{
+                "type":"full-string",
+                "value":"How many friends do you prefer to have?"
+            },
+            "2":{
+                "type":"full-string",
+                "value":"When was the last time you forgot a friend's birthday?"
+            },
+            "3":{
+                "type":"full-string",
+                "value":"Have you ever called a friend of yours at three o'clock in the morning just to chat?"
+            },
+            "4":{
+                "type":"full-string",
+                "value":"Do your friends search for you when they want..."
+            },
+            "5":{
+                "type":"full-string",
+                "value":"How often do you think about your friends?"
+            }
+        }
+    },
+    {
+        "pre-intermediate-6":{
+            "1":{
+                "type":"full-string",
+                "value":"How many people does the first speaker identify and name?"
+            },
+            "2":{
+                "type":"full-string",
+                "value":"What did the first speaker's grandfather do in his life?"
+            },
+            "3":{
+                "type":"full-string",
+                "value":"Why do many people think the second speaker's grand aunt is actually his grandmother?"
+            },
+            "4":{
+                "type":"full-string",
+                "value":"How is the house different now compared to when the photo was taken?"
+            },
+            "5":{
+                "type":"full-string",
+                "value":"What was the occasion of the photo that the third speaker talks about?"
+            },
+            "6":{
+                "type":"full-string",
+                "value":"What happened to the uncles of the third speaker's grandmother?"
+            }
+        }
+    },
+    {
+        "intermediate-1":{
+            "1":{
+                "type":"full-string",
+                "value":"Did Diego Garcia play well last year?"
+            },
+            "2":{
+                "type":"full-string",
+                "value":"Does Diego Garcia know who he is playing in the final?"
+            },
+            "3":{
+                "type":"full-string",
+                "value":"Was the weather in France nice today?"
+            },
+            "4":{
+                "type":"full-string",
+                "value":"Was the weather in Tennessee nice today?"
+            },
+            "5":{
+                "type":"full-string",
+                "value":"Are foreign players playing in the golf tournament?"
+            },
+            "6":{
+                "type":"full-string",
+                "value":"Will the Jaguar driver start in first position in the race tomorrow?"
+            },
+            "7":{
+                "type":"full-string",
+                "value":"You bet $10 on a victory for Pittsburgh. Are you happy today?"
+            },
+            "8":{
+                "type":"full-string",
+                "value":"Did Chicago win today?"
+            }
+        }
+    },
+    {
+        "intermediate-2":{
+            "1":{
+                "type":"full-string",
+                "value":"They first met four or five years ago."
+            },
+            "2":{
+                "type":"full-string",
+                "value":"They met for the second time about five years ago."
+            },
+            "3":{
+                "type":"full-string",
+                "value":"Enrico was sitting at a table chatting to some friends."
+            },
+            "4":{
+                "type":"full-string",
+                "value":"Enrico spoke first in the bar."
+            },
+            "5":{
+                "type":"full-string",
+                "value":"Carolina was surprised that Enrico recognized her after so many years."
+            },
+            "6":{
+                "type":"full-string",
+                "value":"They went for a pizza the following week."
+            },
+            "7":{
+                "type":"full-string",
+                "value":"Their daughter Sabelle is 6 months old."
+            },
+            "8":{
+                "type":"full-string",
+                "value":"Enrico chose their daughter's name."
+            },
+            "9":{
+                "type":"full-string",
+                "value":"Where did Enrico's family move to?"
+            },
+            "10":{
+                "type":"full-string",
+                "value":"How does Carolina describe Enrico when he was young?"
+            },
+            "11":{
+                "type":"full-string",
+                "value":"What did she study at university?"
+            },
+            "12":{
+                "type":"full-string",
+                "value":"Where was she when she saw 'the handsome guy'?"
+            },
+            "13":{
+                "type":"full-string",
+                "value":"What was he doing?"
+            }
+        }
+    },
+    {
+        "intermediate-3":{
+            "1":{
+                "type":"full-string",
+                "value":"Write all phone calls down in the 'phone diary': destination and duration."
+            },
+            "2":{
+                "type":"full-string",
+                "value":"Rent to be paid by the 3rd of each month."
+            },
+            "3":{
+                "type":"full-string",
+                "value":"Leave the living room lights on at night."
+            },
+            "4":{
+                "type":"full-string",
+                "value":"Don't play Frank Sinatra music in the flat."
+            },
+            "5":{
+                "type":"full-string",
+                "value":"Clean the oven once a week."
+            },
+            "6":{
+                "type":"full-string",
+                "value":"The bathroom must be cleaned twice weekly."
+            },
+            "7":{
+                "type":"full-string",
+                "value":"Use the remote control to turn off the TV."
+            }
+        }
+    },
+    {
+        "intermediate-4":{
+            "1":{
+                "type":"full-string",
+                "value":"We don't have enough statistics to be sure."
+            },
+            "2":{
+                "type":"full-string",
+                "value":"Changing how we live would be premature until we are sure."
+            },
+            "3":{
+                "type":"full-string",
+                "value":"The loss of the Amazon rain forest could cause problems."
+            },
+            "4":{
+                "type":"full-string",
+                "value":"People only go to zoos to see the very rare, endangered animals that are there."
+            },
+            "5":{
+                "type":"full-string",
+                "value":"Man needs to do more to find other sources of energy."
+            },
+            "6":{
+                "type":"full-string",
+                "value":"There's no reason to be so pessimistic about the environment."
+            },
+            "7":{
+                "type":"full-string",
+                "value":"Not using oil anymore will cost a lot of people their jobs."
+            },
+            "8":{
+                "type":"full-string",
+                "value":"Mankind has already shown that solutions to difficult problems can be found."
+            }
+        }
+    },
+    {
+        "intermediate-5":{
+            "1":{
+                "type":"full-string",
+                "value":"There has been a recent drop in the number of crimes in the local area."
+            },
+            "2":{
+                "type":"full-string",
+                "value":"Helen says the back of houses is a particularly vulnerable place."
+            },
+            "3":{
+                "type":"full-string",
+                "value":"Having a guard dog is still one of the best security measures that a homeowner can take."
+            },
+            "4":{
+                "type":"full-string",
+                "value":"Helen tells the presenter that houses are safer when you are on vacation because they're locked."
+            },
+            "5":{
+                "type":"full-string",
+                "value":"Making it obvious that you are away from the house while on vacation is a dangerous thing to do."
+            },
+            "6":{
+                "type":"full-string",
+                "value":"Homeowners should always strike a sensible balance between aesthetics and security."
+            },
+            "7":{
+                "type":"full-string",
+                "value":"Helen says that thieves like to work slowly and carefully."
+            }
+        }
+    },
+    {
+        "intermediate-6":{
+            "1":{
+                "type":"full-string",
+                "value":"There is more than one island that makes up the nation of Vanuatu."
+            },
+            "2":{
+                "type":"full-string",
+                "value":"The first European thought Vanuatu was part of Australia."
+            },
+            "3":{
+                "type":"full-string",
+                "value":"The British began ruling Vanuatu after the French left."
+            },
+            "4":{
+                "type":"full-string",
+                "value":"The people of Vanuatu began pressing for independence just before World War 2."
+            },
+            "5":{
+                "type":"full-string",
+                "value":"There is a lot of oil that has been discovered in Vanuatu."
+            },
+            "6":{
+                "type":"full-string",
+                "value":"Vanuatu's geographic isolation causes problems for the economy."
+            },
+            "7":{
+                "type":"full-string",
+                "value":"Vanuatu is a linguistically rich country."
+            },
+            "8":{
+                "type":"full-string",
+                "value":"Vanuatu is vulnerable to natural disasters."
+            }
+        }
+    },
+    {
+        "advanced-1":{
+            "1":{
+                "type":"full-string",
+                "value":"What does Jenny say about the last six months of her life?"
+            },
+            "2":{
+                "type":"full-string",
+                "value":"Why does Jenny use the football metaphor when talking about the cast of her new movie?"
+            },
+            "3":{
+                "type":"full-string",
+                "value":"And how does she view her role in the football team when asked?"
+            },
+            "4":{
+                "type":"full-string",
+                "value":"How did she find working with a famous actor on the film set?"
+            },
+            "5":{
+                "type":"full-string",
+                "value":"Why is Jenny happy that she will be New York in a month's time?"
+            },
+            "6":{
+                "type":"full-string",
+                "value":"Why was Jenny criticized for her comments about Broadway?"
+            },
+            "7":{
+                "type":"full-string",
+                "value":"What was, and is, at the heart of Jenny's criticism of Broadway?"
+            }
+        }
+    },
+    {
+        "advanced-2":{
+            "1":{
+                "type":"full-string",
+                "value":"Why does Janet say she's feeling tired?"
+            },
+            "2":{
+                "type":"full-string",
+                "value":"Why were there no television cameras for the launch of her first book?"
+            },
+            "3":{
+                "type":"full-string",
+                "value":"Why does Keith use the word 'pyramid' when talking about authors."
+            },
+            "4":{
+                "type":"full-string",
+                "value":"Why does Janet like doing promotional events in small venues?"
+            },
+            "5":{
+                "type":"full-string",
+                "value":"Why was Janet's first book about Linda DelMonte?"
+            },
+            "6":{
+                "type":"full-string",
+                "value":"Who was the inspiration for the Lucy Doo character?"
+            },
+            "7":{
+                "type":"full-string",
+                "value":"Why did Janet get rid of one section of her manuscript?"
+            },
+            "8":{
+                "type":"full-string",
+                "value":"This book launch is on a different scale to the one three years ago."
+            },
+            "9":{
+                "type":"full-string",
+                "value":"There are many young writers not making a lot of money, doing tiny book launches."
+            },
+            "10":{
+                "type":"full-string",
+                "value":"Winning literary prizes can increase sales massively."
+            },
+            "11":{
+                "type":"full-string",
+                "value":"Many artists often find producing the second piece of work difficult."
+            },
+            "12":{
+                "type":"full-string",
+                "value":"The new book addresses the problems of many everyday women."
+            },
+            "13":{
+                "type":"full-string",
+                "value":"Characters often arise out of hypothetical situations."
+            },
+            "14":{
+                "type":"full-string",
+                "value":"Other authors can influence you in a very direct, imitating way."
+            }
+        }
+    },
+    {
+        "advanced-3":{
+            "1":{
+                "type":"full-string",
+                "value":"Steve's class worked well for his lesson."
+            },
+            "2":{
+                "type":"full-string",
+                "value":"Marcia bought a cake for her class to celebrate the end of the school year."
+            },
+            "3":{
+                "type":"full-string",
+                "value":"Marcia would feel embarrassed bringing a not-whole cake into her class."
+            },
+            "4":{
+                "type":"full-string",
+                "value":"There are few people in the school staffroom on a Friday."
+            },
+            "5":{
+                "type":"full-string",
+                "value":"The chemistry teacher couldn't have taken it because she's ill today."
+            },
+            "6":{
+                "type":"full-string",
+                "value":"Marcia's friend Michelle is on a diet."
+            },
+            "7":{
+                "type":"full-string",
+                "value":"The new teacher Neil probably didn't have a class in the morning."
+            },
+            "8":{
+                "type":"full-string",
+                "value":"Marcia will confront Neil about taking the slice of cake."
+            }
+        }
+    },
+    {
+        "advanced-4":{
+            "1":{
+                "type":"full-string",
+                "value":"The old method of marking your place in a book is better."
+            },
+            "2":{
+                "type":"full-string",
+                "value":"There have always been people unhappy with progress."
+            },
+            "3":{
+                "type":"full-string",
+                "value":"Reading documents on the computer is very tiring."
+            },
+            "4":{
+                "type":"full-string",
+                "value":"Research shows eInk is as easy to read as printed books."
+            },
+            "5":{
+                "type":"full-string",
+                "value":"My current job prevents me from reading much."
+            },
+            "6":{
+                "type":"full-string",
+                "value":"eBook readers can hold up to five thousand books."
+            },
+            "7":{
+                "type":"full-string",
+                "value":"You can use the reader in so many different places."
+            },
+            "8":{
+                "type":"full-string",
+                "value":"You can read a novel in just a couple of days."
+            }
+        }
+    },
+    {
+        "advanced-5":{
+            "1":{
+                "type":"full-string",
+                "value":"Why does Gemma mention the horoscopes in The Times?"
+            },
+            "2":{
+                "type":"full-string",
+                "value":"What is Gemma's attitude towards the children's hospital campaign carried out by The Times?"
+            },
+            "3":{
+                "type":"full-string",
+                "value":"How does Ben justify the heavy baseball coverage in The Times?"
+            },
+            "4":{
+                "type":"full-string",
+                "value":"What does Ben think about those who work for The Journal?"
+            },
+            "5":{
+                "type":"full-string",
+                "value":"What does Gemma think will happen to the jobs that are currently advertised in The Times?"
+            },
+            "6":{
+                "type":"full-string",
+                "value":"What two purposes does Gemma think local people use a local newspaper for in the age of TV and Internet?"
+            },
+            "7":{
+                "type":"full-string",
+                "value":"What do Gemma and Ben agree about?"
+            }
+        }
+    }
+]
